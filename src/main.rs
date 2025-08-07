@@ -1,3 +1,5 @@
+mod tst1;
+
 fn main() {
-    println!("Hello, world!");
+    tst1::tst1();
 }
