@@ -1,5 +1,3 @@
-use std::result;
-
 pub fn a01() {
     // 1. Declaring Integer Variables:
     // Declaring
